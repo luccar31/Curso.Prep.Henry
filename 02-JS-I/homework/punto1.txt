@@ -1,0 +1,14 @@
+Variables
+Las variables son como cajas con nombre y vamos a poner adentro de las cajas lo que querramos que tenga. Podemos poner numeros, letras, palabras o valores booleanos. El nombre que tenga la caja puede ser cualquiera siempre y cuando se respeten las palabras reservadas que el propio lenguaje impone que no se pueden usar.
+
+String
+Los string son cadenas de simbolos, o sea, son simbolos concatenados, pegados unos con otros. En un string puedo tener letras, espacios, numeros y otros simbolos. Puedo hacer operaciones con ellos, como por ejemplo, concatenar varios strings o saber cuando miden en terminos de la cantidad de simbolos que poseen.
+
+Funciones
+Las funciones son pedazos de codigo que hacen lo que nosotros queremos que hagan. Los podemos usar, haciendo uso de su llamado, a lo largo de todo el programa que estemos codificando. La idea es que programemos funciones que sean utiles para el fin del programa y no para cualquier otra cosa. Ademas, van a recibir "argumentos", que son variables con las cuales estas funciones van a trabajar. Tambien esperamos que luego de que hayan cumplido su cometido, me arrojen un resultado de todo lo que acaban de hacer, espero que retornen un valor.
+
+Declaraciones if
+Las setencias "if" son usadas como una pregunta para saber si algo es cierto o es falso, y que entonces el programa actue en funcion de esta respuesta. Si devuelve "true", el programa hace una cosa, si arroja "false" el programa hace otra cosa.
+
+Valores booleanos
+Estos valores pueden ser 2: verdadero o falso. Con estos valores el programa puede hacer deducciones logicas usando operadores logicos, para saber como continuar o que acciones tomar segun el caso. Tambien se puede ver como un estado, por ejemplo una luz: estas tiene 2 estados naturales, encendidas o apagadas. Si yo pregunto si la luz esta encendida y esta encendida, entonces la respuesta seria verdadero. Caso contrario, la respuesta seria falso.

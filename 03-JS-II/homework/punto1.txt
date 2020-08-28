@@ -1,0 +1,14 @@
+Sentencia for
+La declaracion for se usa para repetir una parte de codigo dentro del programa las veces que querramos o que sean necesarias. Cuenta con 3 partes: una variable "contadora" que "cuenta" cuantas veces este se ha repetido, una condicion que nos dice este codigo se va a seguir repitiendo si cumple ciertas condiciones que nosotros querramos, y una ultima que sirve para modificar el valor de nuestra variable contadora.
+
+Operadores logicos AND, OR y NOT
+Los operadores logicos son como "pequeñas funciones" que nos "retornan" valores booleanos, es decir, "true" (verdadero) o "false" (falso). Evaluan las condiciones que nosotros le digamos y nos devuelven un booleano segun el operador que usemos.
+
+Operador AND - &&
+El operador && se fija si las condiciones que le impongamos se cumplen o no. Si ambas condiciones son verdaderas, entonces retorna "true". En todos los demas casos, el valor retornado es "false".
+
+Operador OR - ||
+El operador || se fija si al menos una de las condiciones que nosotros le pongamos, es verdadera. En dicho caso, nos retorna "true". El unico caso en donde arroja "false", es cuando ninguna de las condiciones es verdadera, o sea, que todas son falsas.
+
+Operador NOT - !
+El operador ! convierte un booleano a su opuesto, es decir, lo invierte. Si le damos un "true", nos devolvera un "false" y viceversa.

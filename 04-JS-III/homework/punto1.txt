@@ -1,0 +1,2 @@
+Arrays
+Si las variables son cajas que guardan un solo dato, podriamos decir que los arrays o arreglos son una coleccion de cajas pegadas unas al lado de la otra en donde en cada caja se guarda un dato como si fuera una variable, pero las cajas no se pueden despegar unas de otras y forman una coleccion de diversos datos en conjunto.
